@@ -1,0 +1,17 @@
+.example-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 30%;
+  margin: auto;
+  margin-top: 8rem;
+  height: 300px;
+}
+h2{
+  display: flex;
+
+  justify-content: center;
+
+}
+
+
